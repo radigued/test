@@ -1,0 +1,1 @@
+Le but de ce "projet" est de travailler sur l'apprentissage de GitHub et de Git en vue d'un projet de développement pour un diplôme informatique.
